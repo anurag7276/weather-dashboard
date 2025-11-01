@@ -12,6 +12,17 @@ This project is a fully functional "Weather Analytics Dashboard," built in respo
 ## 📸 Project Screenshots
 
 
+<img width="1658" height="699" alt="Screenshot 2025-11-01 114544" src="https://github.com/user-attachments/assets/bfbf3ebe-49f6-4448-991d-6415ab5b22eb" />
+
+
+
+
+<img width="1904" height="909" alt="Screenshot 2025-11-01 113813" src="https://github.com/user-attachments/assets/cec94e4b-95c2-4cb8-a414-df7b0d568be8" />
+
+
+
+
+<img width="698" height="906" alt="Screenshot 2025-11-01 113849" src="https://github.com/user-attachments/assets/5880f446-9efc-46d7-8b92-08341024d33c" />
 
 ---
 
